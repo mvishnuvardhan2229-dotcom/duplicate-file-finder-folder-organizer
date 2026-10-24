@@ -6,8 +6,7 @@
 
 The actual outcomes below are based on the supplied terminal screenshot showing eight automated tests ending with `Ran 8 tests` and `OK`.
 
-![TERMINAL SHOWING TESTS PASSED][/home/rgukt/Desktop/E2 S1/DAA LAB/DAA_Project1_Individual_Submission/docs/screenshots/02_tests.png]
-
+![Terminal showing automated tests passing](../screenshots/02_tests.png)
 
 | No. | Test input / action | Expected result | Actual result / evidence |
 |---:|---|---|---|
