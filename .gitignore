@@ -1,0 +1,29 @@
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local application state
+01_duplicate_finder/data.json
+*.tmp
+
+# Generated organized copies
+samples/practice_files/_organized/
+
+# Generated CSV output
+01_duplicate_finder/duplicate_findings.csv
+
+# Faculty submission materials - keep local
+SUBMISSION/
+DEMO_PLAN.md
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*~
+.DS_Store
+Thumbs.db
+
+# Patch and merge leftovers
+*.orig
+*.rej
